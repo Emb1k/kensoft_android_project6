@@ -1,0 +1,4 @@
+Toyota | Supra Mk4 | 3.0 | от 4.1 до 8.2 сек. | Спортивный автомобиль | https://www.toyotakz.com
+Mercedes-Benz | GT-R | 	4.0 | от 3.2 до 4.9 сек | Спортивный автомобиль | https://www.mercedes-benz-kazakhstan.com/ru/desktop/home.html
+BMW | X5 M | 4.4 | от 3.8 до 10.5 сек | Тяжелый внедорожник | https://www.bmw-kz.com/ru
+Audi | S8 | 6.3 | от 3.8 до 6.8 сек. | Представительский спортивный автомобиль | https://audi.kz/ru/
